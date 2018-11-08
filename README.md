@@ -13,7 +13,7 @@ Challenges:
 Like the previous tutorial, this project itself won't be of much use except for reference documentation. Following the format of the tutorial, I would again still struture everything differently. Haven't yet decided upon which template format I like using yet.
 
 
-#Default created readme when project was created
+# Default created readme when project was created
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
